@@ -1,0 +1,2 @@
+class RTMPacketNotProdn(Exception):
+    pass
